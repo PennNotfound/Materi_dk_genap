@@ -1,0 +1,4 @@
+# program menampilkan seluruh bilangan ganjil
+
+for i in range(1,100,2) :
+    print(i)
